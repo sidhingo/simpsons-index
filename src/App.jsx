@@ -90,7 +90,7 @@ function Modal({ p, onClose }) {
         <div style={{ padding:"20px 22px" }}>
           <div style={{ display:"flex", justifyContent:"space-between", alignItems:"flex-start", marginBottom:12 }}>
             <div>
-              <div style={{ fontSize:9, fontFamily:"'Courier New',monospace", color:"#888", marginBottom:4 }}>
+              <div style={{ fontSize:11, fontFamily:"'Courier New',monospace", color:"#888", marginBottom:4 }}>
                 {p.episode_code}{p.air_date ? ` · ${p.air_date.slice(0,4)}` : ""}
               </div>
               <div style={{ fontSize:14, fontWeight:800, color:"#111", lineHeight:1.25 }}>{p.episode_title}</div>
@@ -160,7 +160,7 @@ function Card({ p, onClick, lead }) {
       onMouseLeave={e => e.currentTarget.style.background="#fff"}
     >
       <div style={{ display:"flex", justifyContent:"space-between", alignItems:"center", marginBottom:8 }}>
-        <span style={{ fontSize:9, letterSpacing:2, textTransform:"uppercase", color:"#666", fontFamily:"Georgia,serif" }}>
+        <span style={{ fontSize:11, letterSpacing:2, textTransform:"uppercase", color:"#666", fontFamily:"Georgia,serif" }}>
           {p.category}{p.years_lead ? ` · ${p.years_lead} yr lead` : p.outcome === "pending" ? " · Open" : ""}
         </span>
         <Badge outcome={ok}/>
@@ -308,8 +308,8 @@ export default function SimpsonsIndex() {
           onMouseLeave={e => { if (outcomeFilter !== s.key) e.currentTarget.style.background="#fff"; }}
           >
             <div style={{ fontSize:30, fontWeight:900, lineHeight:1, marginBottom:3, color:s.col }}>{s.num}</div>
-            <div style={{ fontSize:9, letterSpacing:2, textTransform:"uppercase", color:"#555" }}>{s.label}</div>
-            <div style={{ fontSize:9, color: outcomeFilter === s.key ? GOLD : "#999", marginTop:2, fontStyle:"italic" }}>
+            <div style={{ fontSize:11, letterSpacing:2, textTransform:"uppercase", color:"#555" }}>{s.label}</div>
+            <div style={{ fontSize:11, color: outcomeFilter === s.key ? GOLD : "#999", marginTop:2, fontStyle:"italic" }}>
               {outcomeFilter === s.key ? "Filtering ↓  click to clear" : "Click to filter"}
             </div>
           </div>
