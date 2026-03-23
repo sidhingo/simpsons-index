@@ -174,7 +174,7 @@ function Card({ p, onClick, lead }) {
       </div>
 
       <div style={{ display:"flex", justifyContent:"space-between", alignItems:"center", borderTop:"1px solid #eee", paddingTop:10 }}>
-        <span style={{ fontSize:9, fontFamily:"'Courier New',monospace", color:"#888", letterSpacing:0.5 }}>
+        <span style={{ fontSize:11, fontFamily:"'Courier New',monospace", color:"#888", letterSpacing:0.5 }}>
           {p.episode_code} · {p.air_date ? p.air_date.slice(0,4) : "—"}
         </span>
         <Dots score={p.specificity_score}/>
