@@ -372,10 +372,10 @@ export default function SimpsonsIndex() {
 
       {/* ── FOOTER ── */}
       <div style={{ padding:"13px 16px", borderTop:"3px solid #111", display:"flex", justifyContent:"space-between", alignItems:"center", background:"#fff" }}>
-        <span style={{ fontSize:9, letterSpacing:1.5, textTransform:"uppercase", color:"#bbb" }}>
+        <span style={{ fontSize:11, letterSpacing:1.5, textTransform:"uppercase", color:"999" }}>
           The Simpsons Index · Est. 2026 · {PREDICTIONS.length} predictions · 6 sources
         </span>
-        <span style={{ fontSize:10, color:"#bbb", fontStyle:"italic" }}>Not financial advice. D'oh.</span>
+        <span style={{ fontSize:11, color:"999", fontStyle:"italic" }}>Not financial advice. D'oh.</span>
       </div>
 
       <Modal p={selected} onClose={() => setSelected(null)}/>
