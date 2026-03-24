@@ -1,29 +1,6 @@
 {
   "predictions": [
     {
-      "id": 1,
-      "episode_code": "S11E17",
-      "episode_title": "Bart to the Future",
-      "season": 11,
-      "air_date": "2000-03-19",
-      "prediction_text": "Donald Trump becomes President of the United States",
-      "category": "politics",
-      "specificity_score": 5,
-      "predicted_timeframe": "2024",
-      "outcome": "true",
-      "verified": true,
-      "debunked": false,
-      "confidence": "high",
-      "actual_event": "Trump elected 45th President 2016, re-elected 47th in 2024",
-      "years_lead": 16,
-      "source": [
-        "wikipedia",
-        "hollywood_reporter"
-      ],
-      "notes": "Written during Trump's 2000 Reform Party exploratory run. Writer Dan Greaney confirmed satirical intent. A background poster in the episode even showed '2024' next to Trump's image.",
-      "image_url": null
-    },
-    {
       "id": 2,
       "episode_code": "S11E17",
       "episode_title": "Bart to the Future",
@@ -764,7 +741,7 @@
     },
     {
       "id": 35,
-      "episode_code": "S04E14",
+      "episode_code": "S04E16",
       "episode_title": "Whacking Day",
       "season": 4,
       "air_date": "1993-04-29",
@@ -826,28 +803,6 @@
         "collider_search"
       ],
       "notes": "Lunchlady Doris uses gym mats as food ingredients. The 2014 Subway scandal was almost a direct echo of this joke.",
-      "image_url": null
-    },
-    {
-      "id": 38,
-      "episode_code": "S04E14",
-      "episode_title": "Duffless",
-      "season": 4,
-      "air_date": "1993-02-18",
-      "prediction_text": "Ebola virus causes a major global outbreak",
-      "category": "health",
-      "specificity_score": 2,
-      "predicted_timeframe": null,
-      "outcome": "true",
-      "verified": true,
-      "debunked": false,
-      "confidence": "low",
-      "actual_event": "Largest recorded Ebola outbreak in history, West Africa 2014-2016, 28,000+ cases",
-      "years_lead": 21,
-      "source": [
-        "hollywood_reporter"
-      ],
-      "notes": "Marge reads Bart 'Curious George and the Ebola Virus.' The disease existed before 1993 — this is more a reference than a prediction. Low confidence.",
       "image_url": null
     },
     {
@@ -981,28 +936,6 @@
         "collider_search"
       ],
       "notes": "Bart receives a holographic message. Limited commercial holograms exist but are far from mainstream.",
-      "image_url": null
-    },
-    {
-      "id": 45,
-      "episode_code": "S05E02",
-      "episode_title": "Cape Feare",
-      "season": 5,
-      "air_date": "1993-10-07",
-      "prediction_text": "A three-eyed fish is caught near a nuclear plant",
-      "category": "science",
-      "specificity_score": 4,
-      "predicted_timeframe": null,
-      "outcome": "true",
-      "verified": true,
-      "debunked": false,
-      "confidence": "medium",
-      "actual_event": "A three-eyed wolf fish caught near nuclear plant in Córdoba, Argentina in 2011",
-      "years_lead": 18,
-      "source": [
-        "collider_search"
-      ],
-      "notes": "Note: this is the same event as id:28. Keeping both episode references as two episodes covered the Blinky concept.",
       "image_url": null
     },
     {
@@ -1405,29 +1338,6 @@
       "image_url": null
     },
     {
-      "id": 64,
-      "episode_code": "S05E02",
-      "episode_title": "Cape Feare",
-      "season": 5,
-      "air_date": "1993-10-07",
-      "prediction_text": "A three-eyed fish is discovered near a nuclear facility, linked to radiation contamination.",
-      "category": "science",
-      "specificity_score": 4,
-      "predicted_timeframe": null,
-      "outcome": "true",
-      "verified": true,
-      "debunked": false,
-      "confidence": "high",
-      "actual_event": "A three-eyed wolf fish caught near a nuclear plant reservoir in Córdoba, Argentina in 2011; a three-eyed fish also reported near Greenland in 2024",
-      "years_lead": 18,
-      "notes": "Now documented twice — Argentina 2011 and Greenland 2024. Both near nuclear facilities. Blinky lives.",
-      "sources": [
-        "tvline",
-        "collider"
-      ],
-      "image_url": null
-    },
-    {
       "id": 65,
       "episode_code": "S02E02",
       "episode_title": "Simpson and Delilah",
@@ -1512,72 +1422,6 @@
       "notes": "Marge's anti-violence campaign leads Springfield to try to cover David. Happened in Russia 2016 and Florida 2023 — multiple real-world echoes.",
       "sources": [
         "hollywood_reporter"
-      ],
-      "image_url": null
-    },
-    {
-      "id": 69,
-      "episode_code": "S20E04",
-      "episode_title": "Treehouse of Horror XIX",
-      "season": 20,
-      "air_date": "2008-11-02",
-      "prediction_text": "Electronic voting machines malfunction and switch votes from the intended candidate to another.",
-      "category": "politics",
-      "specificity_score": 4,
-      "predicted_timeframe": null,
-      "outcome": "true",
-      "verified": true,
-      "debunked": false,
-      "confidence": "medium",
-      "actual_event": "Viral video from 2012 US election showed Pennsylvania voting machine switching Obama votes to Romney. Machine was removed from service.",
-      "years_lead": 4,
-      "notes": "Homer tries to vote for Obama, machine records McCain. Nearly identical real-world incident documented on video in Pennsylvania in 2012.",
-      "sources": [
-        "hollywood_reporter"
-      ],
-      "image_url": null
-    },
-    {
-      "id": 70,
-      "episode_code": "S13E17",
-      "episode_title": "Gump Roast",
-      "season": 13,
-      "air_date": "2002-04-21",
-      "prediction_text": "The United States experiences a major Capitol building-related political crisis or attack.",
-      "category": "politics",
-      "specificity_score": 2,
-      "predicted_timeframe": null,
-      "outcome": "true",
-      "verified": true,
-      "debunked": false,
-      "confidence": "low",
-      "actual_event": "January 6, 2021 United States Capitol attack",
-      "years_lead": 19,
-      "notes": "From 'The Day the Violence Died' (S07E18, 1996) — a mob is depicted storming a government building. Very loose parallel; Capitol attacks have happened historically throughout US history. Low specificity.",
-      "sources": [
-        "wikipedia"
-      ],
-      "image_url": null
-    },
-    {
-      "id": 71,
-      "episode_code": "S16E05",
-      "episode_title": "Fat Man and Little Boy",
-      "season": 16,
-      "air_date": "2004-11-14",
-      "prediction_text": "A Nobel Prize is awarded for work related to economic contract theory.",
-      "category": "science",
-      "specificity_score": 3,
-      "predicted_timeframe": null,
-      "outcome": "true",
-      "verified": true,
-      "debunked": false,
-      "confidence": "medium",
-      "actual_event": "Oliver Hart and Bengt Holmström shared the 2016 Nobel Prize in Economics for contract theory",
-      "years_lead": 12,
-      "notes": "Separate from the S22E01 Holmström prediction — this episode references Nobel economics more broadly. Both predictions about the same 2016 award from different angles.",
-      "sources": [
-        "collider"
       ],
       "image_url": null
     },
@@ -1763,29 +1607,6 @@
       "image_url": "https://frinkiac.com/img/S02E04/114809.jpg"
     },
     {
-      "id": 80,
-      "episode_code": "S07E18",
-      "episode_title": "The Day the Violence Died",
-      "season": 7,
-      "air_date": "1996-03-17",
-      "prediction_text": "A violent mob attacks and breaches a major US government building.",
-      "category": "politics",
-      "specificity_score": 2,
-      "predicted_timeframe": null,
-      "outcome": "true",
-      "verified": true,
-      "debunked": false,
-      "confidence": "low",
-      "actual_event": "January 6, 2021 United States Capitol attack — a mob breached the Capitol building during the congressional certification of the 2020 election results.",
-      "years_lead": 25,
-      "notes": "Very loose parallel — the episode depicts an animated mob storming a government building. Capitol-style breaches have historical precedent. Specificity is low; more thematic than predictive.",
-      "sources": [
-        "wikipedia",
-        "cbr"
-      ],
-      "image_url": null
-    },
-    {
       "id": 81,
       "episode_code": "S08E02",
       "episode_title": "You Only Move Twice",
@@ -1915,28 +1736,6 @@
       "notes": "The Simpsons referenced streaming cancellation culture as it was actively happening. More commentary than prediction given the timing.",
       "sources": [
         "grunge"
-      ],
-      "image_url": null
-    },
-    {
-      "id": 87,
-      "episode_code": "S20E04",
-      "episode_title": "Treehouse of Horror XIX",
-      "season": 20,
-      "air_date": "2008-11-02",
-      "prediction_text": "Toy manufacturers face recalls and safety scandals over dangerous products, particularly from overseas factories.",
-      "category": "business",
-      "specificity_score": 3,
-      "predicted_timeframe": null,
-      "outcome": "true",
-      "verified": true,
-      "debunked": false,
-      "confidence": "medium",
-      "actual_event": "Major toy recalls in 2007-2008: Mattel recalled 21 million toys made in China for lead paint contamination. One of the largest consumer product recall events in US history.",
-      "years_lead": 0,
-      "notes": "The episode featured killer toys as part of a horror segment. Mattel's massive 2007 Chinese toy recall predated this episode slightly — more parallel than prediction.",
-      "sources": [
-        "time"
       ],
       "image_url": null
     },
