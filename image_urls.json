@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "episode_code": "S11E17",
+    "image_url": "https://frinkiac.com/img/S06E08/497996.jpg"
+  },
+  {
+    "id": 2,
+    "episode_code": "S11E17",
+    "image_url": "https://frinkiac.com/img/S11E17/927160.jpg"
+  },
+  {
+    "id": 3,
+    "episode_code": "S10E05",
+    "image_url": "https://frinkiac.com/img/S07E09/256572.jpg"
+  },
+  {
+    "id": 4,
+    "episode_code": "S03E12",
+    "image_url": "https://frinkiac.com/img/S03E14/1267865.jpg"
+  },
+  {
+    "id": 5,
+    "episode_code": "S05E10",
+    "image_url": "https://frinkiac.com/img/S14E13/1013888.jpg"
+  },
+  {
+    "id": 6,
+    "episode_code": "S06E19",
+    "image_url": "https://frinkiac.com/img/S04E09/1000148.jpg"
+  },
+  {
+    "id": 7,
+    "episode_code": "S06E19",
+    "image_url": "https://frinkiac.com/img/S03E06/184381.jpg"
+  },
+  {
+    "id": 8,
+    "episode_code": "S06E19",
+    "image_url": "https://frinkiac.com/img/S06E19/755871.jpg"
+  },
+  {
+    "id": 9,
+    "episode_code": "S25E10",
+    "image_url": null
+  },
+  {
+    "id": 10,
+    "episode_code": "S25E10",
+    "image_url": null
+  },
+  {
+    "id": 11,
+    "episode_code": "S22E01",
+    "image_url": null
+  },
+  {
+    "id": 12,
+    "episode_code": "S21E12",
+    "image_url": null
+  },
+  {
+    "id": 13,
+    "episode_code": "S04E21",
+    "image_url": "https://frinkiac.com/img/S04E21/232298.jpg"
+  },
+  {
+    "id": 14,
+    "episode_code": "S10E22",
+    "image_url": "https://frinkiac.com/img/S14E06/723181.jpg"
+  },
+  {
+    "id": 15,
+    "episode_code": "S07E24",
+    "image_url": "https://frinkiac.com/img/S07E11/453502.jpg"
+  },
+  {
+    "id": 16,
+    "episode_code": "S15E14",
+    "image_url": "https://frinkiac.com/img/S03E12/883559.jpg"
+  },
+  {
+    "id": 17,
+    "episode_code": "S11E05",
+    "image_url": "https://frinkiac.com/img/S17E22/637220.jpg"
+  },
+  {
+    "id": 18,
+    "episode_code": "S17E10",
+    "image_url": "https://frinkiac.com/img/S09E10/493442.jpg"
+  },
+  {
+    "id": 19,
+    "episode_code": "S20E04",
+    "image_url": null
+  },
+  {
+    "id": 20,
+    "episode_code": "S10E01",
+    "image_url": "https://frinkiac.com/img/S10E01/901933.jpg"
+  },
+  {
+    "id": 21,
+    "episode_code": "S02E18",
+    "image_url": "https://frinkiac.com/img/S02E18/1150865.jpg"
+  },
+  {
+    "id": 22,
+    "episode_code": "S05E15",
+    "image_url": "https://frinkiac.com/img/S05E15/327576.jpg"
+  },
+  {
+    "id": 23,
+    "episode_code": "S23E22",
+    "image_url": null
+  },
+  {
+    "id": 24,
+    "episode_code": "S03E24",
+    "image_url": "https://frinkiac.com/img/S10E07/1131463.jpg"
+  },
+  {
+    "id": 25,
+    "episode_code": "S05E19",
+    "image_url": "https://frinkiac.com/img/S12E13/605146.jpg"
+  },
+  {
+    "id": 26,
+    "episode_code": "S04E08",
+    "image_url": "https://frinkiac.com/img/S08E16/606471.jpg"
+  },
+  {
+    "id": 27,
+    "episode_code": "S11E05",
+    "image_url": "https://frinkiac.com/img/S09E08/471904.jpg"
+  },
+  {
+    "id": 28,
+    "episode_code": "S02E04",
+    "image_url": "https://frinkiac.com/img/S02E04/1187126.jpg"
+  },
+  {
+    "id": 29,
+    "episode_code": "S13E22",
+    "image_url": "https://frinkiac.com/img/S06E15/330162.jpg"
+  },
+  {
+    "id": 30,
+    "episode_code": "S16E06",
+    "image_url": "https://frinkiac.com/img/S13E16/872497.jpg"
+  },
+  {
+    "id": 31,
+    "episode_code": "S18E09",
+    "image_url": null
+  },
+  {
+    "id": 32,
+    "episode_code": "S34E01",
+    "image_url": null
+  },
+  {
+    "id": 33,
+    "episode_code": "S16E01",
+    "image_url": "https://frinkiac.com/img/S02E13/858514.jpg"
+  },
+  {
+    "id": 34,
+    "episode_code": "S04E14",
+    "image_url": "https://frinkiac.com/img/S06E22/529478.jpg"
+  },
+  {
+    "id": 35,
+    "episode_code": "S04E14",
+    "image_url": "https://frinkiac.com/img/S13E09/660410.jpg"
+  },
+  {
+    "id": 36,
+    "episode_code": "S10E22",
+    "image_url": "https://frinkiac.com/img/S02E17/1007680.jpg"
+  },
+  {
+    "id": 37,
+    "episode_code": "S10E06",
+    "image_url": "https://frinkiac.com/img/S12E13/605146.jpg"
+  },
+  {
+    "id": 38,
+    "episode_code": "S04E14",
+    "image_url": "https://frinkiac.com/img/S03E13/728144.jpg"
+  },
+  {
+    "id": 39,
+    "episode_code": "S27E17",
+    "image_url": null
+  },
+  {
+    "id": 40,
+    "episode_code": "S23E12",
+    "image_url": null
+  },
+  {
+    "id": 41,
+    "episode_code": "S11E17",
+    "image_url": "https://frinkiac.com/img/S11E17/574560.jpg"
+  },
+  {
+    "id": 42,
+    "episode_code": "S08E10",
+    "image_url": "https://frinkiac.com/img/S09E20/471837.jpg"
+  },
+  {
+    "id": 43,
+    "episode_code": "S06E04",
+    "image_url": "https://frinkiac.com/img/S01E09/591321.jpg"
+  },
+  {
+    "id": 44,
+    "episode_code": "S14E01",
+    "image_url": "https://frinkiac.com/img/S15E05/727977.jpg"
+  },
+  {
+    "id": 45,
+    "episode_code": "S05E02",
+    "image_url": "https://frinkiac.com/img/S02E04/1187926.jpg"
+  },
+  {
+    "id": 46,
+    "episode_code": "S12E01",
+    "image_url": "https://frinkiac.com/img/S17E08/897897.jpg"
+  },
+  {
+    "id": 47,
+    "episode_code": "S22E14",
+    "image_url": null
+  },
+  {
+    "id": 48,
+    "episode_code": "S09E01",
+    "image_url": "https://frinkiac.com/img/S05E11/7073.jpg"
+  },
+  {
+    "id": 49,
+    "episode_code": "UNKNOWN",
+    "image_url": null
+  },
+  {
+    "id": 50,
+    "episode_code": "UNKNOWN",
+    "image_url": null
+  },
+  {
+    "id": 51,
+    "episode_code": "UNKNOWN",
+    "image_url": null
+  },
+  {
+    "id": 52,
+    "episode_code": "UNKNOWN",
+    "image_url": null
+  },
+  {
+    "id": 53,
+    "episode_code": "S28E02",
+    "image_url": null
+  },
+  {
+    "id": 54,
+    "episode_code": "S28E10",
+    "image_url": null
+  },
+  {
+    "id": 55,
+    "episode_code": "S14E02",
+    "image_url": "https://frinkiac.com/img/S14E02/489614.jpg"
+  },
+  {
+    "id": 56,
+    "episode_code": "S08E11",
+    "image_url": "https://frinkiac.com/img/S02E13/500137.jpg"
+  },
+  {
+    "id": 57,
+    "episode_code": "S11E17",
+    "image_url": "https://frinkiac.com/img/S17E05/785076.jpg"
+  },
+  {
+    "id": 58,
+    "episode_code": "S06E19",
+    "image_url": "https://frinkiac.com/img/S01E03/1307941.jpg"
+  },
+  {
+    "id": 59,
+    "episode_code": "S27E03",
+    "image_url": null
+  },
+  {
+    "id": 60,
+    "episode_code": "S04E02",
+    "image_url": "https://frinkiac.com/img/S01E10/872905.jpg"
+  },
+  {
+    "id": 61,
+    "episode_code": "S12E14",
+    "image_url": "https://frinkiac.com/img/S05E05/393442.jpg"
+  },
+  {
+    "id": 62,
+    "episode_code": "S04E11",
+    "image_url": "https://frinkiac.com/img/S02E10/951613.jpg"
+  },
+  {
+    "id": 63,
+    "episode_code": "S06E04",
+    "image_url": "https://frinkiac.com/img/S12E08/162412.jpg"
+  },
+  {
+    "id": 64,
+    "episode_code": "S05E02",
+    "image_url": "https://frinkiac.com/img/S02E20/1085077.jpg"
+  },
+  {
+    "id": 65,
+    "episode_code": "S02E02",
+    "image_url": "https://frinkiac.com/img/S02E02/116322.jpg"
+  },
+  {
+    "id": 66,
+    "episode_code": "S09E03",
+    "image_url": "https://frinkiac.com/img/S08E10/749598.jpg"
+  },
+  {
+    "id": 67,
+    "episode_code": "S10E02",
+    "image_url": "https://frinkiac.com/img/S10E22/1299580.jpg"
+  },
+  {
+    "id": 68,
+    "episode_code": "S02E09",
+    "image_url": "https://frinkiac.com/img/S04E09/679661.jpg"
+  },
+  {
+    "id": 69,
+    "episode_code": "S20E04",
+    "image_url": null
+  },
+  {
+    "id": 70,
+    "episode_code": "S13E17",
+    "image_url": "https://frinkiac.com/img/S07E09/588370.jpg"
+  },
+  {
+    "id": 71,
+    "episode_code": "S16E05",
+    "image_url": "https://frinkiac.com/img/S15E01/848514.jpg"
+  },
+  {
+    "id": 72,
+    "episode_code": "S07E06",
+    "image_url": "https://frinkiac.com/img/S07E24/1234716.jpg"
+  },
+  {
+    "id": 73,
+    "episode_code": "S26E10",
+    "image_url": null
+  },
+  {
+    "id": 74,
+    "episode_code": "S03E17",
+    "image_url": "https://frinkiac.com/img/S03E17/679772.jpg"
+  },
+  {
+    "id": 75,
+    "episode_code": "S25E07",
+    "image_url": null
+  },
+  {
+    "id": 76,
+    "episode_code": "S31E13",
+    "image_url": null
+  },
+  {
+    "id": 77,
+    "episode_code": "S32E18",
+    "image_url": null
+  },
+  {
+    "id": 78,
+    "episode_code": "S34E04",
+    "image_url": null
+  },
+  {
+    "id": 79,
+    "episode_code": "S02E04",
+    "image_url": "https://frinkiac.com/img/S02E04/114809.jpg"
+  },
+  {
+    "id": 80,
+    "episode_code": "S07E18",
+    "image_url": "https://frinkiac.com/img/S04E21/101083.jpg"
+  },
+  {
+    "id": 81,
+    "episode_code": "S08E02",
+    "image_url": "https://frinkiac.com/img/S03E05/371310.jpg"
+  },
+  {
+    "id": 82,
+    "episode_code": "S04E12",
+    "image_url": "https://frinkiac.com/img/S04E12/642358.jpg"
+  },
+  {
+    "id": 83,
+    "episode_code": "S11E05",
+    "image_url": "https://frinkiac.com/img/S03E05/366138.jpg"
+  },
+  {
+    "id": 84,
+    "episode_code": "S28E12",
+    "image_url": null
+  },
+  {
+    "id": 85,
+    "episode_code": "S29E01",
+    "image_url": null
+  },
+  {
+    "id": 86,
+    "episode_code": "S33E06",
+    "image_url": null
+  },
+  {
+    "id": 87,
+    "episode_code": "S20E04",
+    "image_url": null
+  },
+  {
+    "id": 88,
+    "episode_code": "S05E19",
+    "image_url": "https://frinkiac.com/img/S07E05/673155.jpg"
+  },
+  {
+    "id": 89,
+    "episode_code": "S06E19",
+    "image_url": "https://frinkiac.com/img/S06E23/1007355.jpg"
+  },
+  {
+    "id": 90,
+    "episode_code": "S06E19",
+    "image_url": "https://frinkiac.com/img/S06E19/346996.jpg"
+  },
+  {
+    "id": 91,
+    "episode_code": "S16E15",
+    "image_url": "https://frinkiac.com/img/S06E24/950231.jpg"
+  },
+  {
+    "id": 92,
+    "episode_code": "S16E15",
+    "image_url": "https://frinkiac.com/img/S14E02/1339213.jpg"
+  },
+  {
+    "id": 93,
+    "episode_code": "S23E08",
+    "image_url": null
+  },
+  {
+    "id": 94,
+    "episode_code": "S23E08",
+    "image_url": null
+  },
+  {
+    "id": 95,
+    "episode_code": "S23E08",
+    "image_url": null
+  },
+  {
+    "id": 96,
+    "episode_code": "S25E18",
+    "image_url": null
+  },
+  {
+    "id": 97,
+    "episode_code": "S25E18",
+    "image_url": null
+  },
+  {
+    "id": 98,
+    "episode_code": "S29E08",
+    "image_url": null
+  },
+  {
+    "id": 99,
+    "episode_code": "S34E09",
+    "image_url": null
+  },
+  {
+    "id": 100,
+    "episode_code": "S06E19",
+    "image_url": "https://frinkiac.com/img/S07E18/730996.jpg"
+  }
+]
