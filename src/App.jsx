@@ -166,8 +166,8 @@ function Card({ p, onClick, lead }) {
       onClick={() => onClick(p)}
       style={{
         background:"#fff", padding:"18px 16px 14px", cursor:"pointer",
-        gridColumn: lead ? "span 2" : undefined,
-        borderLeft: lead ? `3px solid ${GOLD}` : "none",
+        gridColumn: undefined,
+        borderLeft: "none",
         transition:"background 0.1s", display:"flex", flexDirection:"column",
       }}
       onMouseEnter={e => e.currentTarget.style.background="#faf8f4"}
@@ -181,8 +181,8 @@ function Card({ p, onClick, lead }) {
       </div>
 
       <div style={{
-        fontSize: lead ? 17 : 14, fontWeight:800, lineHeight:1.35,
-        color:"#111", marginBottom:12, fontFamily:"Georgia,serif", flex:1,
+        fontSize: 14, fontWeight:800, lineHeight:1.35,
+        color:"#111", marginBottom:12, fontFamily:"Georgia,serif", flex:1, textAlign:"left",
       }}>
         {p.prediction_text}
       </div>
