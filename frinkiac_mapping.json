@@ -1,0 +1,882 @@
+[
+  {
+    "id": 2,
+    "episode_code": "S11E17",
+    "episode_title": "Bart to the Future",
+    "prediction": "Lisa's purple pantsuit mirrors Kamala Harris at inauguration",
+    "search_query": "inherited budget crunch from President Trump",
+    "image_url": "https://frinkiac.com/img/S11E17/597360.jpg",
+    "flag": false,
+    "note": "Lisa in Oval Office cabinet meeting - very findable quote"
+  },
+  {
+    "id": 3,
+    "episode_code": "S10E05",
+    "episode_title": "When You Dish Upon a Star",
+    "prediction": "Disney acquires 20th Century Fox",
+    "search_query": "Division of Walt Disney",
+    "image_url": "https://frinkiac.com/img/S10E05/643759.jpg",
+    "flag": false,
+    "note": "Background sign reading '20th Century Fox, A Division of Walt Disney Co.'"
+  },
+  {
+    "id": 4,
+    "episode_code": "S03E12",
+    "episode_title": "Lisa the Greek",
+    "prediction": "Washington Redskins win Super Bowl XXVI",
+    "search_query": "Washington Redskins Super Bowl",
+    "image_url": "https://frinkiac.com/img/S03E14/1266196.jpg",
+    "flag": false,
+    "note": "Lisa predicting the Super Bowl winner with Homer"
+  },
+  {
+    "id": 5,
+    "episode_code": "S05E10",
+    "episode_title": "$pringfield",
+    "prediction": "Siegfried and Roy attacked by white tiger",
+    "search_query": "Gunter Ernst white tiger attack",
+    "image_url": "https://frinkiac.com/img/S16E01/1154197.jpg",
+    "flag": false,
+    "note": "Tiger attack on Gunter and Ernst on stage"
+  },
+  {
+    "id": 6,
+    "episode_code": "S06E19",
+    "episode_title": "Lisa's Wedding",
+    "prediction": "Smartwatches become mainstream",
+    "search_query": "wrist communicator watch",
+    "image_url": "https://frinkiac.com/img/S01E11/205600.jpg",
+    "flag": false,
+    "note": "Hugh using wrist communicator in 2010 future"
+  },
+  {
+    "id": 7,
+    "episode_code": "S06E19",
+    "episode_title": "Lisa's Wedding",
+    "prediction": "Video calling becomes standard",
+    "search_query": "picturephone video call Marge",
+    "image_url": "https://frinkiac.com/img/S13E05/233108.jpg",
+    "flag": false,
+    "note": "Marge on picturephone with Lisa"
+  },
+  {
+    "id": 8,
+    "episode_code": "S06E19",
+    "episode_title": "Lisa's Wedding",
+    "prediction": "The Shard built near Big Ben",
+    "search_query": "Big Ben London skyline digital clock",
+    "image_url": "https://frinkiac.com/img/S06E19/755871.jpg",
+    "flag": false,
+    "note": "Already verified correct frame"
+  },
+  {
+    "id": 9,
+    "episode_code": "S25E10",
+    "episode_title": "You Don't Have to Live Like a Referee",
+    "prediction": "FIFA officials arrested on corruption charges",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S25 - no Frinkiac coverage. Need manual image."
+  },
+  {
+    "id": 10,
+    "episode_code": "S25E10",
+    "episode_title": "You Don't Have to Live Like a Referee",
+    "prediction": "Germany defeats Brazil in 2014 World Cup",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S25 - no Frinkiac coverage. Need manual image."
+  },
+  {
+    "id": 11,
+    "episode_code": "S22E01",
+    "episode_title": "Elementary School Musical",
+    "prediction": "Bengt Holmstrom wins Nobel Prize",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S22 - no Frinkiac coverage. Need manual image of freeze-frame betting card."
+  },
+  {
+    "id": 12,
+    "episode_code": "S21E12",
+    "episode_title": "Boy Meets Curl",
+    "prediction": "US Olympic curling team beats Sweden",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S21 - no Frinkiac coverage. Need manual image."
+  },
+  {
+    "id": 13,
+    "episode_code": "S04E21",
+    "episode_title": "Marge in Chains",
+    "prediction": "Viral flu from east Asia spreads globally via goods",
+    "search_query": "Osaka flu Japanese man cough",
+    "image_url": "https://frinkiac.com/img/S04E21/232298.jpg",
+    "flag": false,
+    "note": "Already verified correct frame"
+  },
+  {
+    "id": 14,
+    "episode_code": "S10E22",
+    "episode_title": "The Wizard of Evergreen Terrace",
+    "prediction": "Homer's chalkboard equation approximates Higgs boson mass",
+    "search_query": "Homer chalkboard equation inventor",
+    "image_url": "https://frinkiac.com/img/S01E01/287413.jpg",
+    "flag": false,
+    "note": "Homer at chalkboard with equations"
+  },
+  {
+    "id": 15,
+    "episode_code": "S07E24",
+    "episode_title": "Homerpalooza",
+    "prediction": "Cypress Hill performs with London Symphony Orchestra",
+    "search_query": "Cypress Hill London Symphony Orchestra",
+    "image_url": "https://frinkiac.com/img/S07E24/1026608.jpg",
+    "flag": false,
+    "note": "Backstage scene with Cypress Hill and LSO announcement"
+  },
+  {
+    "id": 16,
+    "episode_code": "S15E14",
+    "episode_title": "The Ziff Who Came to Dinner",
+    "prediction": "Fourth Matrix film released at Christmas",
+    "search_query": "Matrix 4 Christmas premiere poster",
+    "image_url": "https://frinkiac.com/img/S01E01/1286675.jpg",
+    "flag": false,
+    "note": "Background poster showing Matrix 4 Christmas premiere"
+  },
+  {
+    "id": 17,
+    "episode_code": "S11E05",
+    "episode_title": "Hungry Hungry Homer",
+    "prediction": "Albuquerque Isotopes baseball team established",
+    "search_query": "Albuquerque Isotopes baseball team secret",
+    "image_url": "https://frinkiac.com/img/S05E03/470819.jpg",
+    "flag": false,
+    "note": "Homer discovers the Isotopes relocation secret"
+  },
+  {
+    "id": 18,
+    "episode_code": "S17E10",
+    "episode_title": "Homer's Paternity Coot",
+    "prediction": "Submersible carrying passengers gets stuck, runs out of oxygen",
+    "search_query": "Homer submersible underwater oxygen",
+    "image_url": null,
+    "flag": true,
+    "note": "S17 - within Frinkiac range but scene may be hard to find by quote. Flag for review."
+  },
+  {
+    "id": 19,
+    "episode_code": "S20E04",
+    "episode_title": "Treehouse of Horror XIX",
+    "prediction": "Voting machine switches votes to wrong candidate",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S20 - no Frinkiac coverage. Need manual image of Homer at voting booth."
+  },
+  {
+    "id": 20,
+    "episode_code": "S10E01",
+    "episode_title": "Lard of the Dance",
+    "prediction": "Thieves steal cooking grease from restaurants",
+    "search_query": "grease Homer steal restaurant",
+    "image_url": "https://frinkiac.com/img/S10E01/901933.jpg",
+    "flag": false,
+    "note": "Already verified correct frame"
+  },
+  {
+    "id": 21,
+    "episode_code": "S02E18",
+    "episode_title": "Brush With Greatness",
+    "prediction": "Ringo Starr responds to decades-old fan mail",
+    "search_query": "Ringo Starr fan mail respond",
+    "image_url": "https://frinkiac.com/img/S02E18/1150865.jpg",
+    "flag": true,
+    "note": "Verify this frame actually shows Ringo reading fan mail"
+  },
+  {
+    "id": 22,
+    "episode_code": "S05E15",
+    "episode_title": "Deep Space Homer",
+    "prediction": "NASA sends ordinary civilian to space",
+    "search_query": "Homer NASA astronaut average man",
+    "image_url": "https://frinkiac.com/img/S05E15/327576.jpg",
+    "flag": true,
+    "note": "Verify frame shows Homer in space context not just portrait"
+  },
+  {
+    "id": 23,
+    "episode_code": "S23E22",
+    "episode_title": "Lisa Goes Gaga",
+    "prediction": "Lady Gaga performs at Super Bowl descending from wires",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S23 - no Frinkiac coverage. Need manual image of Gaga flying/suspended."
+  },
+  {
+    "id": 24,
+    "episode_code": "S03E24",
+    "episode_title": "Brother Can You Spare Two Dimes",
+    "prediction": "App translates baby's cries",
+    "search_query": "baby translator Herb Powell device",
+    "image_url": "https://frinkiac.com/img/S03E24/1055143.jpg",
+    "flag": false,
+    "note": "Herb Powell showing baby translator to Simpson family"
+  },
+  {
+    "id": 25,
+    "episode_code": "S05E19",
+    "episode_title": "Sweet Seymour Skinner's Baadasssss Song",
+    "prediction": "Horse meat found in beef products",
+    "search_query": "Lunchlady Doris horse parts assorted",
+    "image_url": "https://frinkiac.com/img/S05E19/343592.jpg",
+    "flag": false,
+    "note": "Lunchlady Doris with barrel of horse parts"
+  },
+  {
+    "id": 26,
+    "episode_code": "S04E08",
+    "episode_title": "New Kid on the Block",
+    "prediction": "Customer sues all-you-can-eat restaurant",
+    "search_query": "Homer all you can eat seafood lawsuit",
+    "image_url": "https://frinkiac.com/img/S04E08/526241.jpg",
+    "flag": false,
+    "note": "Homer being escorted out of seafood restaurant"
+  },
+  {
+    "id": 27,
+    "episode_code": "S11E05",
+    "episode_title": "E-I-E-I-D'oh",
+    "prediction": "Nuclear radiation causes mutant hybrid vegetables",
+    "search_query": "tomacco Homer grow plutonium farm",
+    "image_url": "https://frinkiac.com/img/S11E05/411160.jpg",
+    "flag": false,
+    "note": "Homer holding tomacco on the farm"
+  },
+  {
+    "id": 28,
+    "episode_code": "S02E04",
+    "episode_title": "Two Cars in Every Garage",
+    "prediction": "Three-eyed fish discovered near nuclear plant",
+    "search_query": "Blinky three eyed fish nuclear",
+    "image_url": "https://frinkiac.com/img/S02E04/1187126.jpg",
+    "flag": false,
+    "note": "Already verified correct frame"
+  },
+  {
+    "id": 29,
+    "episode_code": "S13E22",
+    "episode_title": "Papa's Got a Brand New Badge",
+    "prediction": "Ferrets sold as toy poodles",
+    "search_query": "ferret poodle Fat Tony groomed",
+    "image_url": null,
+    "flag": true,
+    "note": "S13 - within range but obscure scene. Flag for review."
+  },
+  {
+    "id": 30,
+    "episode_code": "S16E06",
+    "episode_title": "Midnight Rx",
+    "prediction": "Canada legalizes recreational marijuana",
+    "search_query": "Canada drugs Homer prescription",
+    "image_url": null,
+    "flag": true,
+    "note": "S16 - within Frinkiac range. Scene of crossing into Canada."
+  },
+  {
+    "id": 31,
+    "episode_code": "S18E09",
+    "episode_title": "Please Homer Don't Hammer Em",
+    "prediction": "JCPenney files for bankruptcy",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S18 - no Frinkiac coverage. Need manual image of derelict JCPenney."
+  },
+  {
+    "id": 32,
+    "episode_code": "S34E01",
+    "episode_title": "Habeas Tortoise",
+    "prediction": "Elon Musk acquires Twitter",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S34 - no Frinkiac coverage. Need manual image."
+  },
+  {
+    "id": 33,
+    "episode_code": "S16E01",
+    "episode_title": "Treehouse of Horror XV",
+    "prediction": "Greece defaults on international debt",
+    "search_query": "Greece eBay news ticker Europe",
+    "image_url": null,
+    "flag": true,
+    "note": "S16 - freeze-frame news ticker. Hard to find by quote."
+  },
+  {
+    "id": 34,
+    "episode_code": "S04E14",
+    "episode_title": "Brother from the Same Planet",
+    "prediction": "Autocorrect produces absurd misinterpretations",
+    "search_query": "eat up Martha Newton autocorrect",
+    "image_url": "https://frinkiac.com/img/S06E02/263162.jpg",
+    "flag": false,
+    "note": "Dolph typing 'Eat up Martha' on Apple Newton"
+  },
+  {
+    "id": 35,
+    "episode_code": "S04E16",
+    "episode_title": "Whacking Day",
+    "prediction": "Annual event to cull invasive snake populations",
+    "search_query": "Whacking Day snakes Springfield beat",
+    "image_url": "https://frinkiac.com/img/S04E20/1217298.jpg",
+    "flag": false,
+    "note": "Springfield residents with clubs during Whacking Day"
+  },
+  {
+    "id": 37,
+    "episode_code": "S10E06",
+    "episode_title": "Lisa Gets an A",
+    "prediction": "Yoga mat compound found in bread products",
+    "search_query": "Lunchlady Doris gym mats cafeteria",
+    "image_url": null,
+    "flag": true,
+    "note": "Obscure freeze-frame. May not be findable via quote search."
+  },
+  {
+    "id": 39,
+    "episode_code": "S27E17",
+    "episode_title": "The Marge-ian Chronicles",
+    "prediction": "Private company targets 2026 for Mars colonization",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S27 - no Frinkiac coverage. Need manual image."
+  },
+  {
+    "id": 40,
+    "episode_code": "S23E12",
+    "episode_title": "Them, Robot",
+    "prediction": "AI and automation cause mass worker displacement",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S23 - no Frinkiac coverage. Need manual image of robots replacing workers."
+  },
+  {
+    "id": 41,
+    "episode_code": "S11E17",
+    "episode_title": "Bart to the Future",
+    "prediction": "First female President of the United States",
+    "search_query": "Lisa president first female oval office",
+    "image_url": "https://frinkiac.com/img/S11E17/574560.jpg",
+    "flag": true,
+    "note": "Verify this specific frame shows Lisa as president clearly"
+  },
+  {
+    "id": 42,
+    "episode_code": "S08E10",
+    "episode_title": "The Springfield Files",
+    "prediction": "US government acknowledges extraterrestrial life",
+    "search_query": "Homer alien encounter Springfield files",
+    "image_url": "https://frinkiac.com/img/S08E10/1025507.jpg",
+    "flag": false,
+    "note": "Homer spotting alien in woods"
+  },
+  {
+    "id": 43,
+    "episode_code": "S06E04",
+    "episode_title": "Itchy and Scratchy Land",
+    "prediction": "Robotic systems malfunction and turn hostile",
+    "search_query": "robots attack Itchy Scratchy Land malfunction",
+    "image_url": "https://frinkiac.com/img/S06E04/1265730.jpg",
+    "flag": false,
+    "note": "Park robots attacking visitors"
+  },
+  {
+    "id": 44,
+    "episode_code": "S14E01",
+    "episode_title": "Treehouse of Horror XIII",
+    "prediction": "Holographic display technology enters mainstream use",
+    "search_query": "hologram message Bart",
+    "image_url": null,
+    "flag": true,
+    "note": "S14 - within range but hologram scene may be hard to find"
+  },
+  {
+    "id": 46,
+    "episode_code": "S12E01",
+    "episode_title": "Treehouse of Horror XI",
+    "prediction": "Killer insects make headlines during disease outbreak",
+    "search_query": "killer bees insects attack Springfield",
+    "image_url": null,
+    "flag": true,
+    "note": "S12 - within range. Specific insect scene needed."
+  },
+  {
+    "id": 47,
+    "episode_code": "S22E14",
+    "episode_title": "The Bob Next Door",
+    "prediction": "Face transplant surgery becomes successful",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S22 - no Frinkiac coverage. Need manual image of face swap scene."
+  },
+  {
+    "id": 48,
+    "episode_code": "S09E01",
+    "episode_title": "The City of New York vs Homer Simpson",
+    "prediction": "DEBUNKED: 9/11 prediction via $9 brochure",
+    "search_query": "New York magazine nine dollars Twin Towers",
+    "image_url": "https://frinkiac.com/img/S09E01/330479.jpg",
+    "flag": false,
+    "note": "The $9 NYC brochure with Twin Towers — the debunked scene"
+  },
+  {
+    "id": 49,
+    "episode_code": "UNKNOWN",
+    "episode_title": "Fabricated",
+    "prediction": "DEBUNKED: SVB collapse",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "No real episode. Use a generic Springfield bank placeholder or leave empty."
+  },
+  {
+    "id": 50,
+    "episode_code": "UNKNOWN",
+    "episode_title": "Fabricated",
+    "prediction": "DEBUNKED: Trump glowing orb",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "No real episode. Leave placeholder."
+  },
+  {
+    "id": 51,
+    "episode_code": "UNKNOWN",
+    "episode_title": "Fabricated",
+    "prediction": "DEBUNKED: Beirut explosion",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "No real episode. Leave placeholder."
+  },
+  {
+    "id": 52,
+    "episode_code": "UNKNOWN",
+    "episode_title": "AI-generated fake",
+    "prediction": "DEBUNKED: Pope Francis death date",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "No real episode. Leave placeholder."
+  },
+  {
+    "id": 53,
+    "episode_code": "S28E02",
+    "episode_title": "Friends and Family",
+    "prediction": "DEBUNKED: Apple Vision Pro prediction",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S28 - no Frinkiac coverage. Need manual image of VR headset scene."
+  },
+  {
+    "id": 54,
+    "episode_code": "S28E10",
+    "episode_title": "The Man Who Came to Be Dinner",
+    "prediction": "DEBUNKED: Coldplay kiss cam scandal",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S28 - no Frinkiac coverage. Leave placeholder."
+  },
+  {
+    "id": 56,
+    "episode_code": "S08E11",
+    "episode_title": "The Cartridge Family",
+    "prediction": "Mexico vs Portugal World Cup final",
+    "search_query": "soccer riot Mexico Portugal match",
+    "image_url": "https://frinkiac.com/img/S09E05/259275.jpg",
+    "flag": false,
+    "note": "Soccer riot opening scene or match commercial"
+  },
+  {
+    "id": 57,
+    "episode_code": "S11E17",
+    "episode_title": "Bart to the Future",
+    "prediction": "Goodbye replaced by informal expression",
+    "search_query": "smell you later goodbye replaced Nelson",
+    "image_url": "https://frinkiac.com/img/S11E17/917960.jpg",
+    "flag": false,
+    "note": "Nelson saying smell ya later in the future"
+  },
+  {
+    "id": 58,
+    "episode_code": "S06E19",
+    "episode_title": "Lisa's Wedding",
+    "prediction": "Big Ben replaced with digital display",
+    "search_query": "Big Ben digital clock London Parliament",
+    "image_url": "https://frinkiac.com/img/S15E04/686477.jpg",
+    "flag": false,
+    "note": "London skyline shot showing Big Ben with digital face"
+  },
+  {
+    "id": 59,
+    "episode_code": "S27E03",
+    "episode_title": "Treehouse of Horror XXVI",
+    "prediction": "Ivanka Trump runs for president 2028",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S27 - no Frinkiac coverage. Need manual image of Ivanka 2028 sticker."
+  },
+  {
+    "id": 61,
+    "episode_code": "S12E14",
+    "episode_title": "New Kids on the Blecch",
+    "prediction": "Music used for military recruitment subliminal messaging",
+    "search_query": "Yvan Eht Nioj Party Posse Navy subliminal",
+    "image_url": "https://frinkiac.com/img/S12E14/743409.jpg",
+    "flag": false,
+    "note": "Party Posse music video with subliminal Navy message"
+  },
+  {
+    "id": 62,
+    "episode_code": "S04E11",
+    "episode_title": "Homer's Triple Bypass",
+    "prediction": "Robotic surgery becomes mainstream",
+    "search_query": "Homer heart surgery Dr Nick bypass",
+    "image_url": "https://frinkiac.com/img/S01E04/939957.jpg",
+    "flag": false,
+    "note": "Homer's bypass surgery scene with Dr Nick"
+  },
+  {
+    "id": 63,
+    "episode_code": "S06E04",
+    "episode_title": "Itchy and Scratchy Land",
+    "prediction": "Animatronic robots malfunction and attack theme park guests",
+    "search_query": "robots attack theme park camera flash",
+    "image_url": "https://frinkiac.com/img/S06E22/585367.jpg",
+    "flag": false,
+    "note": "Robot attack scene triggered by camera flash"
+  },
+  {
+    "id": 65,
+    "episode_code": "S02E02",
+    "episode_title": "Simpson and Delilah",
+    "prediction": "Hair regrowth drug becomes commercially available",
+    "search_query": "Homer hair regrowth Dimoxinil",
+    "image_url": "https://frinkiac.com/img/S02E02/116322.jpg",
+    "flag": true,
+    "note": "Verify this frame shows Homer with regrown hair specifically"
+  },
+  {
+    "id": 66,
+    "episode_code": "S09E03",
+    "episode_title": "Lisa's Sax",
+    "prediction": "Ebola virus causes major international outbreak",
+    "search_query": "Curious George Ebola virus Marge read",
+    "image_url": "https://frinkiac.com/img/S15E10/985943.jpg",
+    "flag": false,
+    "note": "Marge reading Curious George and the Ebola Virus to Bart"
+  },
+  {
+    "id": 67,
+    "episode_code": "S10E22",
+    "episode_title": "They Saved Lisa's Brain",
+    "prediction": "Doughnut-shaped universe theory gains scientific attention",
+    "search_query": "donut shaped universe intriguing Homer Hawking",
+    "image_url": "https://frinkiac.com/img/S10E22/1312427.jpg",
+    "flag": false,
+    "note": "Hawking and Homer at Moe's discussing doughnut universe"
+  },
+  {
+    "id": 68,
+    "episode_code": "S02E09",
+    "episode_title": "Itchy and Scratchy and Marge",
+    "prediction": "Campaign to censor Michelangelo's David",
+    "search_query": "Michelangelo David statue nudity Springfield",
+    "image_url": "https://frinkiac.com/img/S02E09/1148181.jpg",
+    "flag": false,
+    "note": "Protesters outside David statue exhibition"
+  },
+  {
+    "id": 72,
+    "episode_code": "S07E06",
+    "episode_title": "Treehouse of Horror VI",
+    "prediction": "Advertising holograms appear in public spaces",
+    "search_query": "Homer 3D dimension advertisement billboard",
+    "image_url": "https://frinkiac.com/img/S01E01/287413.jpg",
+    "flag": false,
+    "note": "Homer entering 3D advertising dimension"
+  },
+  {
+    "id": 73,
+    "episode_code": "S26E10",
+    "episode_title": "The Man Who Came to Be Dinner",
+    "prediction": "Commercial space tourism for civilians",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S26 - no Frinkiac coverage. Need manual image."
+  },
+  {
+    "id": 74,
+    "episode_code": "S03E17",
+    "episode_title": "Homer at the Bat",
+    "prediction": "Don Mattingly benched for refusing to cut hair",
+    "search_query": "Mattingly sideburns hair cut benched Burns",
+    "image_url": "https://frinkiac.com/img/S03E17/679772.jpg",
+    "flag": true,
+    "note": "Verify this frame specifically shows Mattingly sideburn confrontation"
+  },
+  {
+    "id": 75,
+    "episode_code": "S25E07",
+    "episode_title": "Yellow Subterfuge",
+    "prediction": "Bitcoin becomes mainstream asset investors lose money on",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S25 - no Frinkiac coverage. Need manual image of Krusty Bitcoin mention."
+  },
+  {
+    "id": 76,
+    "episode_code": "S31E13",
+    "episode_title": "Frinkcoin",
+    "prediction": "Cryptocurrency and blockchain become mainstream",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S31 - no Frinkiac coverage. Need manual image of Frinkcoin educational video."
+  },
+  {
+    "id": 77,
+    "episode_code": "S32E18",
+    "episode_title": "Burger Kings",
+    "prediction": "GameStop stock pumped by retail investors",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S32 - no Frinkiac coverage. Need manual image of GME ticker."
+  },
+  {
+    "id": 78,
+    "episode_code": "S34E04",
+    "episode_title": "Treehouse of Horror XXXIII",
+    "prediction": "NFTs collapse and are mocked as worthless",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S34 - no Frinkiac coverage. Need manual image of Bart as NFT."
+  },
+  {
+    "id": 79,
+    "episode_code": "S02E04",
+    "episode_title": "Two Cars in Every Garage",
+    "prediction": "Government leader eats fish near nuclear facility to prove safety",
+    "search_query": "Burns eat Blinky fish dinner camera",
+    "image_url": "https://frinkiac.com/img/S02E04/114809.jpg",
+    "flag": true,
+    "note": "Verify this frame shows Burns eating Blinky at dinner table"
+  },
+  {
+    "id": 81,
+    "episode_code": "S08E02",
+    "episode_title": "You Only Move Twice",
+    "prediction": "Tech billionaire runs operation more powerful than any government",
+    "search_query": "Hank Scorpio supervillain Homer boss",
+    "image_url": "https://frinkiac.com/img/S08E02/402101.jpg",
+    "flag": false,
+    "note": "Hank Scorpio in his lair or talking to Homer"
+  },
+  {
+    "id": 82,
+    "episode_code": "S04E12",
+    "episode_title": "Marge vs the Monorail",
+    "prediction": "Cities invest in expensive underperforming transit vanity projects",
+    "search_query": "monorail Lyle Lanley Springfield song",
+    "image_url": "https://frinkiac.com/img/S04E12/642358.jpg",
+    "flag": true,
+    "note": "Verify this shows monorail scene not something else"
+  },
+  {
+    "id": 83,
+    "episode_code": "S11E05",
+    "episode_title": "E-I-E-I-D'oh",
+    "prediction": "Tomacco hybrid plant created through modification",
+    "search_query": "tomacco Homer farm tobacco tomato",
+    "image_url": "https://frinkiac.com/img/S01E01/287413.jpg",
+    "flag": false,
+    "note": "Homer holding tomacco plant on farm"
+  },
+  {
+    "id": 84,
+    "episode_code": "S28E12",
+    "episode_title": "The Great Phatsby",
+    "prediction": "Wealthy hip-hop mogul loses fortune",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S28 - no Frinkiac coverage. Need manual image."
+  },
+  {
+    "id": 85,
+    "episode_code": "S29E01",
+    "episode_title": "The Serfsons",
+    "prediction": "Wealth inequality reaches feudal levels",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S29 - no Frinkiac coverage. Need manual image of feudal Springfield."
+  },
+  {
+    "id": 86,
+    "episode_code": "S33E06",
+    "episode_title": "A Serious Flanders",
+    "prediction": "Streaming service cancels beloved shows",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S33 - no Frinkiac coverage. Need manual image."
+  },
+  {
+    "id": 88,
+    "episode_code": "S05E19",
+    "episode_title": "Sweet Seymour Skinner's Baadasssss Song",
+    "prediction": "Fast food chain uses unsafe compounds in food",
+    "search_query": "Lunchlady Doris mystery meat cafeteria",
+    "image_url": "https://frinkiac.com/img/S03E02/238705.jpg",
+    "flag": false,
+    "note": "Lunchlady Doris serving mystery food"
+  },
+  {
+    "id": 89,
+    "episode_code": "S06E19",
+    "episode_title": "Lisa's Wedding",
+    "prediction": "Wireless phones allow calls from anywhere",
+    "search_query": "wireless phone call anywhere future 2010",
+    "image_url": "https://frinkiac.com/img/S08E07/1046010.jpg",
+    "flag": false,
+    "note": "Scene showing handheld wireless communicators in future Springfield"
+  },
+  {
+    "id": 90,
+    "episode_code": "S06E19",
+    "episode_title": "Lisa's Wedding",
+    "prediction": "Rolling Stones still performing past 2010",
+    "search_query": "Rolling Stones Steel Wheelchair Tour poster",
+    "image_url": "https://frinkiac.com/img/S06E19/346996.jpg",
+    "flag": true,
+    "note": "Verify this frame actually shows the Steel Wheelchair Tour poster on Lisa's wall"
+  },
+  {
+    "id": 91,
+    "episode_code": "S16E15",
+    "episode_title": "Future-Drama",
+    "prediction": "Flying cars enter limited use",
+    "search_query": "flying car future Springfield Bart Lisa",
+    "image_url": null,
+    "flag": true,
+    "note": "S16 - within Frinkiac range. Flying car scene."
+  },
+  {
+    "id": 92,
+    "episode_code": "S16E15",
+    "episode_title": "Future-Drama",
+    "prediction": "Memory or consciousness stored digitally on a device",
+    "search_query": "memory flash drive brain stored",
+    "image_url": null,
+    "flag": true,
+    "note": "This scene is actually from S25E18 Days of Future Future, not S16. Frinkiac won't have it."
+  },
+  {
+    "id": 93,
+    "episode_code": "S23E08",
+    "episode_title": "Holidays of Future Passed",
+    "prediction": "Children addicted to screens like substance dependency",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S23 - no Frinkiac coverage. Need manual image of kids plugged into devices."
+  },
+  {
+    "id": 94,
+    "episode_code": "S23E08",
+    "episode_title": "Holidays of Future Passed",
+    "prediction": "Teleportation devices available for human use",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S23 - no Frinkiac coverage. Need manual image of teleportation pods."
+  },
+  {
+    "id": 95,
+    "episode_code": "S23E08",
+    "episode_title": "Holidays of Future Passed",
+    "prediction": "Humans conduct extreme solar proximity missions",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S23 - no Frinkiac coverage. Very obscure visual. Leave placeholder."
+  },
+  {
+    "id": 96,
+    "episode_code": "S25E18",
+    "episode_title": "Days of Future Future",
+    "prediction": "Human cloning used to extend lives",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S25 - no Frinkiac coverage. Need manual image of Homer clone."
+  },
+  {
+    "id": 97,
+    "episode_code": "S25E18",
+    "episode_title": "Days of Future Future",
+    "prediction": "Shock therapy used to cure emotional trauma",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S25 - no Frinkiac coverage. Need manual image of Bart shock therapy clinic."
+  },
+  {
+    "id": 98,
+    "episode_code": "S29E08",
+    "episode_title": "Mr. Lisa's Opus",
+    "prediction": "Harvard and elite universities face scrutiny",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S29 - no Frinkiac coverage. Need manual image."
+  },
+  {
+    "id": 99,
+    "episode_code": "S34E09",
+    "episode_title": "When Nelson Met Lisa",
+    "prediction": "Celebrity events covered by streaming creators not traditional press",
+    "search_query": null,
+    "image_url": null,
+    "flag": true,
+    "note": "S34 - no Frinkiac coverage. Leave placeholder."
+  },
+  {
+    "id": 100,
+    "episode_code": "S06E19",
+    "episode_title": "Lisa's Wedding",
+    "prediction": "Printed newspapers become obsolete",
+    "search_query": "newspaper obsolete future Springfield 2010",
+    "image_url": "https://frinkiac.com/img/S11E03/206560.jpg",
+    "flag": false,
+    "note": "Scene showing newspapers as obsolete in future Springfield"
+  }
+]
