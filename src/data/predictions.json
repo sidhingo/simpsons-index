@@ -762,28 +762,6 @@
       "image_url": null
     },
     {
-      "id": 36,
-      "episode_code": "S10E22",
-      "episode_title": "They Saved Lisa's Brain",
-      "season": 10,
-      "air_date": "1999-05-09",
-      "prediction_text": "Scientists revisit the theory that the universe is shaped like a donut (torus)",
-      "category": "science",
-      "specificity_score": 3,
-      "predicted_timeframe": null,
-      "outcome": "true",
-      "verified": true,
-      "debunked": false,
-      "confidence": "low",
-      "actual_event": "Doughnut-shaped universe theory resurged in Nature (2008) and subsequent cosmology papers",
-      "years_lead": 9,
-      "source": [
-        "hollywood_reporter"
-      ],
-      "notes": "Stephen Hawking tells Homer 'Your theory of a doughnut-shaped universe is intriguing.' The torus universe model had existed since the '80s but gained renewed academic interest post-2008.",
-      "image_url": null
-    },
-    {
       "id": 37,
       "episode_code": "S10E06",
       "episode_title": "Lisa Gets an A",
@@ -892,28 +870,6 @@
         "bored_panda"
       ],
       "notes": "Fans in 2026 citing ongoing UAP congressional hearings and Pentagon reports. Very speculative stretch.",
-      "image_url": null
-    },
-    {
-      "id": 43,
-      "episode_code": "S06E04",
-      "episode_title": "Itchy & Scratchy Land",
-      "season": 6,
-      "air_date": "1994-10-02",
-      "prediction_text": "Robotic/automated systems malfunction and turn hostile toward humans",
-      "category": "technology",
-      "specificity_score": 2,
-      "predicted_timeframe": null,
-      "outcome": "pending",
-      "verified": true,
-      "debunked": false,
-      "confidence": "low",
-      "actual_event": null,
-      "years_lead": null,
-      "source": [
-        "bored_panda"
-      ],
-      "notes": "Animatronic park robots attack visitors. Very vague. Fans connecting to AI safety concerns in 2025-26 is a stretch.",
       "image_url": null
     },
     {
@@ -1138,28 +1094,6 @@
       "image_url": null
     },
     {
-      "id": 55,
-      "episode_code": "S14E02",
-      "episode_title": "How I Spent My Strummer Vacation",
-      "season": 14,
-      "air_date": "2002-11-10",
-      "prediction_text": "Rolling Stones still touring in old age ('Steel Wheelchair Tour')",
-      "category": "entertainment",
-      "specificity_score": 3,
-      "predicted_timeframe": "2010",
-      "outcome": "true",
-      "verified": true,
-      "debunked": false,
-      "confidence": "high",
-      "actual_event": "The Rolling Stones continued touring into the 2020s; Mick Jagger performing at 80+",
-      "years_lead": null,
-      "source": [
-        "collider_search"
-      ],
-      "notes": "A poster in Lisa's Wedding (S06E19) reads 'Rolling Stones Steel Wheelchair Tour 2010.' The Stones were still actively touring well into the 2020s — the joke landed.",
-      "image_url": "https://frinkiac.com/img/S14E02/489614.jpg"
-    },
-    {
       "id": 56,
       "episode_code": "S08E11",
       "episode_title": "The Cartridge Family",
@@ -1242,28 +1176,6 @@
       "actual_event": null,
       "years_lead": null,
       "notes": "Homer's sticker for 'Ivanka Trump 2028' appears in a Halloween episode. Ivanka served in Trump's first administration. No announcement yet as of March 2026.",
-      "sources": [
-        "watchmojo"
-      ],
-      "image_url": null
-    },
-    {
-      "id": 60,
-      "episode_code": "S04E02",
-      "episode_title": "A Streetcar Named Marge",
-      "season": 4,
-      "air_date": "1992-10-01",
-      "prediction_text": "Subliminal messaging is used in music or media to influence mass behavior.",
-      "category": "culture",
-      "specificity_score": 2,
-      "predicted_timeframe": null,
-      "outcome": "pending",
-      "verified": true,
-      "debunked": false,
-      "confidence": "low",
-      "actual_event": null,
-      "years_lead": null,
-      "notes": "From 'New Kids on the Blecch' (S12E14) — Bart's boy band embeds 'Yvan Eht Nioj' (Join the Navy backwards) as a subliminal military recruitment tool. Subliminal advertising remains banned in most countries.",
       "sources": [
         "watchmojo"
       ],
@@ -1383,10 +1295,10 @@
     },
     {
       "id": 67,
-      "episode_code": "S10E02",
-      "episode_title": "The Wizard of Evergreen Terrace",
+      "episode_code": "S10E22",
+      "episode_title": "They Saved Lisa's Brain",
       "season": 10,
-      "air_date": "1998-09-20",
+      "air_date": "1999-05-09",
       "prediction_text": "A doughnut-shaped (torus) universe theory gains serious scientific attention.",
       "category": "science",
       "specificity_score": 3,
@@ -1397,7 +1309,7 @@
       "confidence": "medium",
       "actual_event": "Torus-shaped universe theory resurged in Nature journal in 2008 and multiple subsequent cosmology papers",
       "years_lead": 10,
-      "notes": "Stephen Hawking tells Homer 'Your theory of a doughnut-shaped universe is intriguing.' The torus model had existed since the 1980s but gained renewed mainstream scientific traction post-2008.",
+      "notes": "Stephen Hawking tells Homer 'Your theory of a doughnut-shaped universe is intriguing — I may have to steal it.' Scene in Moe's tavern, S10E22. The torus universe model gained renewed mainstream scientific traction in Nature (2008) and subsequent cosmology papers.",
       "sources": [
         "hollywood_reporter"
       ],
